@@ -1,5 +1,5 @@
 ﻿  ListDemo.cpp
-d:\数据结构试验\listdemo\listdemo\listdemo.cpp(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\数据结构试验\listdemo\listdemo\listdemo.cpp(101): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
   ListDemo.vcxproj -> D:\数据结构试验\ListDemo\x64\Debug\ListDemo.exe
   ListDemo.vcxproj -> D:\数据结构试验\ListDemo\x64\Debug\ListDemo.pdb (Partial PDB)
